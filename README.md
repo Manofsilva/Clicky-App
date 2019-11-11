@@ -1,4 +1,4 @@
-This memory game project was created using React so to break up my application's UI into components, manage component state, and respond to user events.
+This memory game was created using React. I wanted to break up my application's UI into components, manage component state, and respond to user events.
 
 ## Game Obective
 
