@@ -8,4 +8,4 @@ This application renders different images on screen that get reshuffled each tim
 
 ### Deployment
 
-This app was deployed to Heroku and can be accessed here:https://ancient-woodland-06587.herokuapp.com/
+This app was deployed to Heroku and can be accessed here:https://el-clicky.herokuapp.com/
