@@ -1,4 +1,6 @@
-This memory game was created using React. I wanted to break up my application's UI into components, manage component state, and respond to user events.
+### Prmise
+
+Clicky Game is a web app that utilizes React for the front end. It keeps a score of the user, and restarts the score when the user clicks on the image more than once.This memory game was created using React. I wanted to break up my application's UI into components, manage component state, and respond to user events.
 
 ## Game Obective
 
